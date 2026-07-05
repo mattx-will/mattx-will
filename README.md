@@ -281,19 +281,19 @@ Worked on AI-assisted software development and modern full-stack application wor
 
 <p align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/mattx-will/">
 <img src="https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://www.geeksforgeeks.org/profile/matthewwl821">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/profile/matthewwillx24">
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/users/mattxwill_24">
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -655,15 +655,15 @@ current_status:
 <img src="https://img.shields.io/badge/GitHub-mattx--will-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/matthew-williams-v-95v/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app/mattx-will">
+<a href="https://your-portfolio.vercel.app/mattx-pros">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/u/mattx-will/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
